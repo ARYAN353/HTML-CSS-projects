@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home </title>
+    <style>
+        h1{
+           font-size: 40px;
+           
+           font-family: futura;
+           color: #1ea69a;
+           text-align: center;
+        }
+        div.con{
+            height:300px;
+            width: 420px;
+            margin: 40px;
+            background-color:white;
+            float: left;
+            text-align: center;
+        }
+        h3{
+            font-family: Arial, Helvetica, sans-serif;
+            color: grey;
+            font-weight: 700;
+            
+        }
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+            color: grey;
+        }
+    </style>
+</head>
+<body><h1>Amazing <br>Features</h1><h3><center>Test featured from elementor.</center></h3>
+<div class="con"><center><img src="a2.png"><br><h3>Live Customizer</h3><p>To help you configure and customize stuff around your
+ website without going into code. You can customize the price format to any currency in the world. You can customize the URL slugs
+ to your required ones.</p></center></div>
+<div class="con"><center><img src="a3.png"><br><h3>Design Variations</h3><p>Real Homes theme includes two major design variations.
+ You can use the classic or modern look based on your choice.</p></center></div>
+<div class="con"><center><img src="a4.png"><br><h3>Advance Search</h3><p>Real Homes includes advanced properties search feature that 
+is powerful and fully customizable to fulfill various needs. You can select which fields you want to display and what data will be 
+displayed in those fields.</p></center></div>
+<div class="con"><center><img src="a5.png"><br><h3>Google & OpenstreetMaps</h3><p>Real Homes includes Google Maps API integration that
+ enables you to display Google map with properties markers on search results page, properties display pages, property detail page,
+ home page and taxonomy archive pages.</p></center></div>
+<div class="con"><center><img src="a1.png"><br><h3>Member Support</h3><p>You can provide user registration, login and forgot password 
+features on your site to let users access member only features. Social login feature allow you to integrate any social network with 
+your website for user login and registration.</p></center></div>
+<div class="con"><center><img src="a6.png"><br><h3>Front End Property Submit</h3><p>Real Homes provides front end property submit 
+template and related configurations. So you can restrict certain level of users from accessing administrator dashboard and provide 
+them an interface on front end to submit properties.</p></center></div>
+</body>
+</html>
